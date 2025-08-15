@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Ashar-john
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m a front end developer working as React Js Developer
+- 🌱 I’m currently learning React Native and Node.js to become a Full Stack Developer(MERN)
+- 💞️ I’m looking to collaborate on every kind of work
+- 📫 How to reach me https://www.linkedin.com/in/ashar-john-8052a5210/
 
-<!---
-Ashar-john/Ashar-john is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
